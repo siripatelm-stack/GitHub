@@ -10,6 +10,8 @@ for i in range(5):
   print("hello")
 >>>>>>> bb0af91 (Revert "deleted file1.py and file2.py")"""
 for i in range (5):
-  print('*'*i)
+  print('*'*i[print(" "*i)for i in range (4,0,-1)]'*'*i)
+
+  
 for i in range (5,0,-1):
   print('*'*i)
