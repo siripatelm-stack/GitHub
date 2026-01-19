@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #write something in MASTER BRANCH 
 #butterfly half wing
 #to resolve conflict in file2.py
@@ -15,3 +16,6 @@ for i in range (5):
   
 for i in range (5,0,-1):
   print('*'*i)
+=======
+
+>>>>>>> Stashed changes
