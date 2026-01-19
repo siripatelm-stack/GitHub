@@ -1,9 +1,12 @@
-reverting this change
+reverting{2} this change
 <<<<<<< HEAD
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> parent of 112cb71 (stash out one by one)
+=======
+>>>>>>> parent of 577362e (stashing)
 #write something in MASTER BRANCH 
 #butterfly half wing
 #to resolve conflict in file2.py
@@ -25,9 +28,12 @@ for i in range (5,0,-1):
 =======
 
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 =======
 
 >>>>>>> Stashed changes
 =======
   print('*'*i)
 >>>>>>> parent of 112cb71 (stash out one by one)
+=======
+>>>>>>> parent of 577362e (stashing)
