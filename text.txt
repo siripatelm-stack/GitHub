@@ -1,3 +1,0 @@
-how tag works in git command
-and also different commands within it
-
