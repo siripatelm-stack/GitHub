@@ -1,18 +1,22 @@
-reverting{2} this change
+"""reverting{2} this change
 <<<<<<< HEAD
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> parent of 112cb71 (stash out one by one)
 =======
 >>>>>>> parent of 577362e (stashing)
+=======
+<<<<<<< Updated upstream
+>>>>>>> 577362e (stashing)
 #write something in MASTER BRANCH 
 #butterfly half wing
 #to resolve conflict in file2.py
 #made changes for that
  
-"""<<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 for i in range(5):
@@ -23,11 +27,12 @@ for i in range (5):
 
   
 for i in range (5,0,-1):
-<<<<<<< HEAD
+"""<<<<<<< HEAD
   print('*'*i)
 =======
 
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -37,3 +42,8 @@ for i in range (5,0,-1):
 >>>>>>> parent of 112cb71 (stash out one by one)
 =======
 >>>>>>> parent of 577362e (stashing)
+=======
+=======
+
+>>>>>>> Stashed changes
+>>>>>>> 577362e (stashing)"""
